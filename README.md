@@ -1,6 +1,3 @@
-# Sassify---Harnessing-the-Power-of-Sass
-Explore the world of Sass, a CSS preprocessor that streamlines and enhances your stylesheet development. Dive into variables, nesting, and mixins with our concise guide. Unlock cleaner, more efficient styling with Sass.
-
 Sassify - Harnessing the Power of Sass
 Welcome to Sassify, your one-stop destination to dive deep into the world of Sass, the CSS preprocessor that takes your styling to the next level. Whether you're new to Sass or a seasoned developer looking to enhance your skills, this repository is here to guide you.
 
